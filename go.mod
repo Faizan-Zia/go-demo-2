@@ -12,5 +12,5 @@ require (
 	github.com/prometheus/procfs v0.0.0-20181204211112-1dc9a6cbc91a
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.2.2
-	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
+	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
